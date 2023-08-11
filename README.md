@@ -1,2 +1,3 @@
-***///a simple weather api application
+***///a simple weather api application using node js and express js
+
 
